@@ -1,0 +1,12 @@
+{
+  "name": "tableau_custom_visual",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/uitarar/Tableau_CustomVisual.git",
+  "author": "Usman Tarar",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "jquery": "^3.6.0"
+  }
+}
